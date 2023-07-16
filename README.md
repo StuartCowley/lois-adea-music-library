@@ -1,3 +1,3 @@
-# Backend app
+# Music library
 
-This app was created with `@command-shift/create-backend-app`
+Project for the Command Shift course on REST APIs with Express.js and Postgres.
